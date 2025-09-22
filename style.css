@@ -187,7 +187,7 @@ footer {
     }
 }
 
-@media (max-width: 768px) {    /* ✅ Proper media query */
+@media (max-width: 768px) {
     .hero h1 {
         font-size: 2rem;
     }
@@ -195,4 +195,5 @@ footer {
     .hero p {
         font-size: 1rem;
     }
+
 }
